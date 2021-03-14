@@ -9,7 +9,6 @@
 - 💬 Ask me about Web Development
 - 📫 How to reach me: <a href="https://discord.gg/Y4enK3F9fW">Discord</a>
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a Human Being
 
 **My Stats**
 
