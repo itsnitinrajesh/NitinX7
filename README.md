@@ -2,11 +2,36 @@
 
 
 
-- 🔭  I’m currently working on becoming an App Developer
-- 🌱  I’m currently learning Python
-- 🤔  I’m looking for help with ... Python and App-Development
-- 👯  I’m looking to collaborate on App Development
-- 💬  Ask me about Web Development
-- 📫  How to reach me: <a href="https://discord.gg/Y4enK3F9fW">Discord</a>
-- 😄  Pronouns: He/Him
-- ⚡  Fun fact: I am a Human Being
+- 🔭 I’m currently working on becoming an App Developer
+- 🌱 I’m currently learning Python
+- 🤔 I’m looking for help with ... Python and App-Development
+- 👯 I’m looking to collaborate on App Development
+- 💬 Ask me about Web Development
+- 📫 How to reach me: <a href="https://discord.gg/Y4enK3F9fW">Discord</a>
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am a Human Being
+
+**My Stats**
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=nitinx7&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinx7&theme=tokyonight&hide=batchfile">
+
+<br>
+<br>
+<br>
+
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=nitinx7&theme=dracula&count_private=true"></div>
+
+<br>
+<br>
+<br>
+
+
+**Most Popular Repositories**
+<br>
+<br>
+<a href="https://github.com/joshmania436/Barter-App">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=joshmania436&repo=Barter-App&theme=dracula" alt="Discord" width="400"/>
+<br>
+<a href="https://github.com/joshmania436/Weather-Forecast">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=joshmania436&repo=Weather-Forecast&theme=dracula" alt="Discord" width="400"/>
+</a>
