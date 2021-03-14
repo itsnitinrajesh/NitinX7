@@ -1,4 +1,4 @@
-### Hey 👋, I am Nitin Rajesh and I am a Web Developer
+### Hey , I am Nitin Rajesh and I am a Web Developer
 
 
 
