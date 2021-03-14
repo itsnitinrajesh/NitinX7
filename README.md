@@ -15,10 +15,3 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=nitinx7&show_icons=true&hide_border=true&theme=tokyonight">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinx7&theme=tokyonight&hide=batchfile">
-
-<br>
-<br>
-<br>
-<br>
-
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=nitinx7&theme=dracula&count_private=true"></div>
