@@ -1,6 +1,6 @@
 ### Hey 👋, I am Nitin Rajesh and I am a Web Developer
 
-[<i class="fab fa-discord"></i>](https://discord.gg/Y4enK3F9fW)
+<a href ='https://discord.gg/Y4enK3F9fW'><i class="fab fa-discord"></i></a>
 
 - 🔭  I’m currently working on becoming an App Developer
 - 🌱  I’m currently learning Python
