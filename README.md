@@ -1,12 +1,12 @@
 ### Hey 👋, I am Nitin Rajesh and I am a Web Developer
 
-<a href ='https://discord.gg/Y4enK3F9fW'><i class="fa-discord"></i></a>
+
 
 - 🔭  I’m currently working on becoming an App Developer
 - 🌱  I’m currently learning Python
 - 🤔  I’m looking for help with ... Python and App-Development
 - 👯  I’m looking to collaborate on App Development
 - 💬  Ask me about Web Development
-- 📫  How to reach me: [Instagram](https://instagram.com/nitinx7)
+- 📫  How to reach me: [Discord](https://discord.gg/Y4enK3F9fW)
 - 😄  Pronouns: He/Him
 - ⚡  Fun fact: I am a Human Being
