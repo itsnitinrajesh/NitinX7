@@ -7,6 +7,6 @@
 - 🤔  I’m looking for help with ... Python and App-Development
 - 👯  I’m looking to collaborate on App Development
 - 💬  Ask me about Web Development
-- 📫  How to reach me: [Discord](https://discord.gg/Y4enK3F9fW)
+- 📫  How to reach me: <a href="https://discord.gg/Y4enK3F9fW"> :arrow_upper_right: Discord</a>
 - 😄  Pronouns: He/Him
 - ⚡  Fun fact: I am a Human Being
