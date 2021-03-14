@@ -14,9 +14,9 @@
 **My Stats**
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=nitinx7&show_icons=true&hide_border=true&theme=tokyonight">
-<br>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinx7&theme=tokyonight&hide=batchfile">
 
+<br>
 <br>
 <br>
 <br>
