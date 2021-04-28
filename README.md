@@ -2,15 +2,10 @@
 
 
 
-- 🔭 I’m currently working on becoming an App Developer
-- 🌱 I’m currently learning Python
-- 🤔 I’m looking for help with ... Python and App-Development
-- 👯 I’m looking to collaborate on App Development
-- 💬 Ask me about Web Development
-- 📫 How to reach me: <a href="https://discord.gg/Y4enK3F9fW">Discord</a>
-- 😄 Pronouns: He/Him
+- I’m currently working on becoming an App Developer as mastering my **Web Dev** skills
+- I’m currently learning Python and App Dev
+- How to reach me: <a href="https://discord.gg/Y4enK3F9fW">Discord</a>
+- He/Him
 
-**My Stats**
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinx7&theme=tokyonight&hide=batchfile">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=nitinx7&show_icons=true&hide_border=true&theme=tokyonight">
